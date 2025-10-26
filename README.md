@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou o Thiago Bicalho Luz
 
-🎯 **Analista de Qualidade | Futuro Cientista de Dados | Desenvolvedor em formação**
+🎯 **Analista e Desenvolverdor | Analista  de Qualidade QA | Desenvolvedor Java em formação**
 
-Sou apaixonado por tecnologia, aprendizado contínuo e projetos que geram impacto real. Atuo como QA na Foursys e estou finalizando minha graduação em Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi.
+Sou apaixonado por tecnologia, aprendizado contínuo e projetos que geram impacto real. Atuo como QA na Foursys, graduado em Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi 2025.
 
 <div>
   src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"
