@@ -1,5 +1,3 @@
-# 👋 Olá! Eu sou o Thiago Bicalho Luz
-
 🎯 **Analista e Desenvolverdor | Analista  de Qualidade QA | Desenvolvedor Java em formação**
 
 Sou apaixonado por tecnologia, aprendizado contínuo e projetos que geram impacto real. Atuo como QA na Foursys, graduado em Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi 2025.
@@ -11,16 +9,17 @@ Sou apaixonado por tecnologia, aprendizado contínuo e projetos que geram impact
 
 ## 🚀 Habilidades e Tecnologias
 
-- **Linguagens:** Python, SQL, HTML, CSS, JavaScript  
-- **Testes:** Testes Manuais, Automação, Zephyr, Postman, TestRail  
+- **Linguagens:** Python, SQL, HTML, CSS, JavaScript, JQL, ZQL
+- **Testes:** Testes Manuais, Automação, Zephyr, Postman  
 - **Banco de Dados:** Oracle, MySQL, SQLite  
-- **Ferramentas:** Git, GitHub, VS Code, JIRA, Notion  
-- **Estudando:** Ciência de Dados, Probabilidade, Estatística, AWS, Tkinter
+- **Ferramentas:** Git, GitHub, VS Code, IntelliJ, JIRA, Confluence
+- **Estudando:** Java, JavaScript, Pythom, CTFL
 
 ---
+## 🧠 Projetos Concluídos
+- Site e-commerce: thaluzpratas.com
 
 ## 🧠 Projetos em andamento
-
 - 🔧 Curso interativo de **SQL & Banco de Dados**
 - 🎮 Jogo para ensinar **lógica de programação em Python**
 - 🔧 Curso e jogos para ensinar estatistica e probabilidades.
