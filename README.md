@@ -28,9 +28,8 @@ Sou apaixonado por tecnologia, aprendizado contínuo e projetos que geram impact
 
 ---
 
-## 📌 Metas 2025
+## 📌 Metas 2026
 
-- ✅ Concluir a faculdade 🎓  
-- 🎓 Iniciar pós-graduação em Ciência de Dados  
+- 💻 Iniciar MBA 🎓  
+- 🎓 Iniciar pós-graduação
 - 🏆 Tirar certificações CTFL e AWS  
-- 💻 Lançar pr
